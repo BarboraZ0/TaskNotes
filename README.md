@@ -13,4 +13,4 @@ Work still to be done:
 1. Finish implementing listview widget
 2. Set option for tasks to be habits and one-time
 3. Erase one time tasks at the start of next day if completed
-4. Trach habit tasks and show on calendar if completed, regardless of action reset at start of each day
+4. Track habit tasks and show on calendar if completed, regardless of action reset at start of each day
